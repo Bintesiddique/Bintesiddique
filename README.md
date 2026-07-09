@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Areeba Siddique👋<br><br>I'm a passionate Full-Stack Web Developer and Computer Science graduate from Punjab, Pakistan. I enjoy building modern, responsive, and user-friendly web applications using HTML, Tailwind CSS, React.js, and Node.js. I'm always learning new technologies and love solving real-world problems through clean, efficient code.<br><br>🚀 Currently improving my full-stack development skills and building projects that combine creativity with functionality.<br><br>💡 "Code. Learn. Build. Improve."<br>
+#  I'm Areeba Siddique👋:
+<br><br>I'm a passionate Full-Stack Web Developer and Computer Science graduate from Punjab, Pakistan. I enjoy building modern, responsive, and user-friendly web applications using HTML, Tailwind CSS, React.js, and Node.js. I'm always learning new technologies and love solving real-world problems through clean, efficient code.<br><br>🚀 Currently improving my full-stack development skills and building projects that combine creativity with functionality.<br><br>💡 "Code. Learn. Build. Improve."<br>
 
 
 ## 🌐 Socials:
